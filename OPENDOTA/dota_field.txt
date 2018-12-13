@@ -1,0 +1,9 @@
+radiant_gold_adv
+radiant_xp_adv
+tower1_mid
+
+radiant_team
+dire_team
+teamfights
+objectives
+players: gold_per_min, lane_pos, purchase_log, sen_left_log, tower_damage, xp_per_min
